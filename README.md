@@ -1,4 +1,4 @@
-<img width="2940" height="1670" alt="image" src="https://github.com/user-attachments/assets/0284fb54-f987-49cf-bf5c-2bc5bf7e3ec5" /># Claude-RAG-chatbot
+RAG-chatbot
 A project using Claude Code
 
 Here's the Visualization created: 
